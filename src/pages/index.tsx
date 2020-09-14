@@ -285,6 +285,7 @@ export default function Home() {
                   href="http://www.distrivers.nl"
                   role="button"
                   target="_blank"
+                  rel="noopener"
                 >
                   <img src="distrivers.gif" />
                 </a>
@@ -295,6 +296,7 @@ export default function Home() {
                   href="http://www.raakinstallatiebouw.nl/"
                   role="button"
                   target="_blank"
+                  rel="noopener"
                 >
                   <img src="raak.gif" />
                 </a>
@@ -305,6 +307,7 @@ export default function Home() {
                   href="http://www.idra-tech.com/"
                   role="button"
                   target="_blank"
+                  rel="noopener"
                 >
                   <img src="idratech.gif" />
                 </a>
@@ -315,6 +318,7 @@ export default function Home() {
                   href="http://www.vloertechniekhoogeveen.nl/"
                   role="button"
                   target="_blank"
+                  rel="noopener"
                 >
                   <img src="vloertechniek.gif" />
                 </a>
@@ -325,6 +329,7 @@ export default function Home() {
                   href="http://www.vihamij.nl/"
                   role="button"
                   target="_blank"
+                  rel="noopener"
                 >
                   <img src="vihamij.png" />
                 </a>
