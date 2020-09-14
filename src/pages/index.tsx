@@ -369,7 +369,7 @@ export default function Home() {
                   </li>
                 </ul>
               </div>
-              <div className="col-md-4 col-md-offset-1 contact">
+              {/* <div className="col-md-4 col-md-offset-1 contact">
                 <h1>Contact</h1>
                 <form id="form" action="" method="post">
                   <div className="form-group">
@@ -422,7 +422,7 @@ export default function Home() {
                     Verstuur vraag
                   </button>
                 </form>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
