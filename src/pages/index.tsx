@@ -282,28 +282,6 @@ export default function Home() {
               <div className="col-md-head">
                 <a
                   className="btn btn-link"
-                  href="http://www.distrivers.nl"
-                  role="button"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  <img src="distrivers.gif" />
-                </a>
-              </div>
-              <div className="col-md-head">
-                <a
-                  className="btn btn-link"
-                  href="http://www.raakinstallatiebouw.nl/"
-                  role="button"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  <img src="raak.gif" />
-                </a>
-              </div>
-              <div className="col-md-head">
-                <a
-                  className="btn btn-link"
                   href="http://www.idra-tech.com/"
                   role="button"
                   target="_blank"
